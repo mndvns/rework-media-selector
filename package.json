@@ -1,0 +1,35 @@
+{
+  "name": "rework-media-selector",
+  "version": "0.1.0",
+  "description": "Nested media queries as selectors",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "clone-component": "~0.1.0"
+  },
+  "devDependencies": {
+    "rework": "~0.20.2",
+    "should": "~3.0.1",
+    "mocha": "~1.17.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvanasse/rework-media-selector.git"
+  },
+  "keywords": [
+    "rework",
+    "css",
+    "media",
+    "query"
+  ],
+  "author": "Michael Vanasse <michaelvanasse@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvanasse/rework-media-selector/issues"
+  }
+}

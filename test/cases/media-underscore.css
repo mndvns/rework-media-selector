@@ -1,0 +1,18 @@
+.aaa {
+  width: 100%;
+}
+
+.aaa,
+.bbb.xxx _media screen,
+.bbb.zzz _media screen {
+  color: green;
+}
+
+.lll _media screen {
+  border: none;
+}
+
+.zzz _media screen,
+.bbb {
+  height: 2em;
+}

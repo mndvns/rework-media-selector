@@ -1,0 +1,7 @@
+.foo {
+  width: 100%;
+}
+
+.foo _media screen {
+  color: green;
+}

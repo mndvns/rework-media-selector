@@ -1,0 +1,29 @@
+.z,
+.j,
+.t {
+  display: none;
+  visibility: hidden;
+}
+
+@media screen {
+  .x.x,
+  .x.y {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+.z {
+  width: 100%;
+}
+
+@media screen {
+  .j,
+  .t {
+    border: none;
+  }
+}
+
+.t {
+  height: 2em;
+}
