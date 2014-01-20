@@ -51,7 +51,6 @@ function media(options) {
         rules.splice(i, 1, media_out)
       }
 
-
       if (selectors.length) {
         var standard = clone(rule);
         standard.selectors = selectors;
@@ -59,7 +58,6 @@ function media(options) {
       }
 
       i--;
-
     }
   }
 }
